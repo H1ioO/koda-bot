@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation Discord.js
+    url: https://discord.js.org/#/docs
+    about: Consultez la documentation officielle de Discord.js v14
+  - name: 💬 Support Discord
+    url: https://discord.gg/discord-developers
+    about: Rejoignez le serveur Discord des développeurs pour obtenir de l'aide
+  - name: 🐛 Problème de Discord.js
+    url: https://github.com/discordjs/discord.js/issues
+    about: Signalez les bugs liés à Discord.js directement sur leur repository
